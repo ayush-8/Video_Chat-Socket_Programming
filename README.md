@@ -14,3 +14,6 @@ receiver file must contain IP and port of System B.
 Files in System B:
 sender file must contain IP and port of System B
 receiver file must contain IP and port of System A.
+
+
+NOTE: Replace host IP and port in these files correspondingly as stated above.
